@@ -25,7 +25,7 @@ SECRET_KEY = '$c86uxd8=p6zqxk&dxoz_ul3a1*x@sgt)p$pd=^c1ql^&ruf%i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [san98der.pythonanywhere.com]
+ALLOWED_HOSTS = ['san98der.pythonanywhere.com']
 
 LOGIN_REDIRECT_URL = '/'
 
